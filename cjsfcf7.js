@@ -1,3 +1,18 @@
+/*
+ * Plugin Name: Confirm JS for Contact Form 7
+ * Author: milkyfield
+ * Author URI: https://milkyfieldcompany.com/
+ * License: GPL2
+*/
+/*
+ * WordPress Plugin 'Contact From 7' support confirm phase v0.12
+ * http://elearn.jp/wpman/
+ *
+ * Copyright 2011-2012, Takenori Matsuura
+ * Licensed under GPL Version 2 licenses.
+ *
+ * Date: Thu Dec 16 10:46:00 2012 +0900
+ */
 jQuery(function(){
 	var cjsfcf7_fnReadonly = function(bReadonly) {
 		var readonly = "";
