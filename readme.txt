@@ -3,7 +3,7 @@ Contributors: milkyfield
 Donate link: https://milkyfieldcompany.com/
 Tags: cf7, confirm, contact, form,
 Requires at least: 5.5
-Tested up to: 5.8
+Tested up to: 5.9
 Stable tag: 0.9
 Requires PHP: 7.0
 License: GPLv2 or later
